@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery-ui-src</artifactId>
-    <version>1.11.3</version>
+    <version>1.11.4-SNAPSHOT</version>
     <name>jQuery UI Source</name>
     <description>WebJar for jQuery UI Source</description>
     <url>http://webjars.org</url>
@@ -47,7 +47,7 @@
         <url>http://github.com/webjars/jquery-ui-src</url>
         <connection>scm:git:https://github.com/webjars/jquery-ui-src.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jquery-ui-src.git</developerConnection>
-        <tag>jquery-ui-src-1.11.3</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
